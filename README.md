@@ -1,8 +1,3 @@
-# test
-tanha bo test
-hi 
-
-
-
-ok
-choni
+test 1
+test 2
+test 3
